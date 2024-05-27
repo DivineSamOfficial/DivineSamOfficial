@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Divine+Sam;I'm+a+Data+Engineer)](https://git.io/typing-svg)
 
-<h3 align="center">"Torture the data until it confesses."</h3>
+<h3 align="center">"Torture the data, and it will confess to anything." - Ronald Coase</h3>
+<h3 align="center">"Regression to the mean." - Francis Galton</h3>
 
 <br>
 
