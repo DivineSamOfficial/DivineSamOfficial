@@ -51,6 +51,4 @@
 </div>
 
 
-------
-Credit: [DivineSamOfficial](https://github.com/divinesamofficial)
-Last Edited on: 16/01/2024
+
