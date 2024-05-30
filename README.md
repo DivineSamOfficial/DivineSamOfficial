@@ -35,6 +35,7 @@
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.svgrepo.com/show/353380/airflow.svg"/>](https://www.airflow.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.svgrepo.com/show/330270/dbt.svg"/>](https://www.dbt.com/)
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://miro.medium.com/v2/resize:fit:1200/1*BLMkN_JD4e--TAUOqaVf6A.png"/>](https://www.aws.com/)
+[<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdagster.io%2Fbrand&psig=AOvVaw0uGzzTH5YU45kfUCaC9oQg&ust=1717169437165000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDDguXYtYYDFQAAAAAdAAAAABAK"/>](https://www.aws.com/)
 
 #### DevOps and Automation Tools:
 [<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
