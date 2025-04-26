@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Divine+Sam;I'm+a+Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Divine+Sam;I'm+an+Analytics+Engineer)](https://git.io/typing-svg)
 
 <h3 align="center">"Torture the data, and it will confess to anything." - Ronald Coase</h3>
-<h3 align="center">"Regression to the mean." - Francis Galton</h3>
 
 <br>
 
@@ -13,7 +12,7 @@
 
 #### Programming Languages:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://icons8.com/icon/J6KcaRLsTgpZ/sql"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   
 
 
