@@ -15,13 +15,6 @@
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   
 
-
-#### Big Data and Databases:
-  [<img height="50px" width="60px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png?20210416091439"/>](https://sass-lang.com/)
-  [<img height="60px" width="67px" alt="Icone VS-Code" src="https://www.svgrepo.com/show/354090/mongodb.svg"/>](https://www.typescriptlang.org/)
-  [<img height="48px" width="65px" alt="Icone VS-Code" src="https://spark.apache.org/images/delta-lake-logo.png"/>](https://www.mysql.com/)
-  [<img height="48px" width="65px" alt="Icone VS-Code" src="https://e7.pngegg.com/pngimages/880/426/png-clipart-azure-data-lake-microsoft-azure-sql-database-big-data-data-lake-angle-logo-thumbnail.png"/>](https://www.mysql.com/)
-  [<img height="48px" width="65px" alt="Icone VS-Code" src="https://e7.pngegg.com/pngimages/645/480/png-clipart-data-warehouse-computer-icons-graphics-data-warehouse-building-blue-angle.png"/>](https://www.mysql.com/)
 #### Cloud Services:
 
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://pendulum-it.com/wp-content/uploads/2020/05/Google-Cloud-Platform-GCP-logo.png"/>](https://www.aws.com/)
