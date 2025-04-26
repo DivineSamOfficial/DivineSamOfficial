@@ -1,47 +1,43 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;My+name+is+Divine+Sam;I'm+an+Analytics+Engineer)](https://git.io/typing-svg)
+# 👋 Welcome to my GitHub!  
 
-<h3 align="center">"Torture the data, and it will confess to anything." - Ronald Coase</h3>
+### Turning raw data into meaningful insights | Analytics Engineer
 
-<br>
+Hi, I'm **Divine Sam** — an **Analytics Engineer** passionate about transforming raw data into actionable insights. I specialize in building scalable data models, streamlining ETL/ELT workflows, and optimizing data pipelines for real business impact.
 
-<br>
+---
 
-## Language and Tools
+## 🛠️ Core Skills
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+- **SQL** | **Python** | **dbt** | **Airflow**
+- **BigQuery** | **Snowflake** | **GCP** | **AWS S3**
+- **Data Modeling** | **Data Transformation** | **Data Validation**
+- **Looker Studio** | **Tableau** | **Google Sheets**
+- **GitHub Actions** | **Docker**
 
-#### Programming Languages:
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  
+---
 
-#### Cloud Services:
+## 🧠 What I Do
 
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://pendulum-it.com/wp-content/uploads/2020/05/Google-Cloud-Platform-GCP-logo.png"/>](https://www.aws.com/)
-  
+- Build scalable analytics workflows using **dbt** and **SQL**.
+- Optimize and automate data pipelines using **Airflow** and cloud services.
+- Validate and ensure high-quality datasets for business analytics.
+- Create dashboards and visualizations to drive decision-making.
+- Work closely with stakeholders to bridge business and engineering teams.
 
-#### Data Engineering Tools:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://logosandtypes.com/wp-content/uploads/2020/07/kafka.svg"/>](https://www.kafka.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.svgrepo.com/show/353380/airflow.svg"/>](https://www.airflow.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.svgrepo.com/show/330270/dbt.svg"/>](https://www.dbt.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://miro.medium.com/v2/resize:fit:1200/1*BLMkN_JD4e--TAUOqaVf6A.png"/>](https://www.aws.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://dagster.io/images/brand/logos/dagster-primary-mark.svg"/>](https://dagster.io/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="[https://dagster.io/images/brand/logos/dagster-primary-mark.svg](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/dbt-ytv7trkoaqcnvr5yxcvvk.png/dbt-384wi7nth5d4pvytczw6vn.png?_a=DATAdtAAZAA0)"/>](https://dagster.io/)
+---
 
+## 📂 Explore My Projects
 
-#### DevOps and Automation Tools:
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://www.svgrepo.com/show/349342/docker.svg"/>](https://www.docker.com/)
+> Dive into my repositories to see real-world projects on data engineering, analytics engineering, and data visualization.  
+> [Click here to check out my projects →](https://github.com/DivineSamOfficial?tab=repositories)
 
+---
 
-#### ERP Tools:
-[<img height="48px" width="80px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SAP_2011_logo.svg/455px-SAP_2011_logo.svg.png?20230905220744"/>](https://www.kafka.com/)
+## 📬 Get In Touch
 
-## Contact me:
-<div>
-<a href = "mailto: divinesam100@mail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/divinesam/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+- **LinkedIn**: [linkedin.com/in/divinesam](https://www.linkedin.com/in/divinesam/)
+- **Email**: divinesam100@gmail.com
 
+---
 
-
+*(Thanks for visiting! 🚀 Always open to collaboration, learning, and building great things with data.)*
