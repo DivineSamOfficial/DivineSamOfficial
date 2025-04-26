@@ -12,7 +12,7 @@
 
 #### Programming Languages:
   [<img height="48px" width="48px" alt="Icone VS-Code" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://icons8.com/icon/J6KcaRLsTgpZ/sql"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  [<img height="48px" width="48px" alt="Icone VS-Code" src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
   
 
 
