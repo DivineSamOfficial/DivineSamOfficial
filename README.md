@@ -10,7 +10,7 @@ Hi, I'm **Divine Sam** — an **Analytics Engineer** passionate about transformi
 
 - **SQL** | **Python** | **dbt** | **Airflow**
 - **BigQuery** | **Snowflake** | **GCP** | **AWS S3**
-- **Data Modeling** | **Data Transformation** | **Data Validation**
+- **Data Warehousing** | **Data Modeling** | **Data Transformation** | **Data Validation**
 - **Looker Studio** | **Tableau** | **Google Sheets**
 - **GitHub Actions** | **Docker**
 
